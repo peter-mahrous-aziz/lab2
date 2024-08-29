@@ -64,4 +64,4 @@
 
 # remotely => git push origin : TagName
 
-![image description] (https://github.com/peter-mahrous-aziz/lab2/blob/master/img.jpg)
+![image description] (https://github.com/peter-mahrous-aziz/lab2/blob/master/img.jpg?raw=true)
